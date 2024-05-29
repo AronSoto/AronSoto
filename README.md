@@ -10,7 +10,7 @@
 I-am-Aron-Soto
 -------------------------
 ⌨️ I am a Software Engineering student and technology enthusiast.
-📕 I am currently studying Software Engineering at the Technological University of Peru.
+📕 I am studying Software Engineering at the Technological University of Peru.
 🌌 I am passionate about the world of Machine Learning and programming languages.
 🌠 Learn the various types of software that are implemented in IA.
 🧊 Main languages: (HTML, CSS and JavaScript), SQL and Python.
