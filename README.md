@@ -28,7 +28,7 @@ I-am-Aron-Soto
 - **Languages**:
   
      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_plain_wordmark_logo_icon_146380.png" width="40" height="40" alt="Sql"/>
-     <img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" width="40" height="40" alt="Java"/>
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/>
      <img src="https://pngimg.com/uploads/php/php_PNG29.png" width="40" height="40" alt="Sql"/>
      <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40" height="40" alt="Sql"/>
      
@@ -44,7 +44,7 @@ I-am-Aron-Soto
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
     <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" width="30" height="40" alt="Git"/>
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968363.png" width="40" height="40" alt="Git"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40" alt="Git"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
   <br>
    
@@ -53,9 +53,8 @@ I-am-Aron-Soto
 
 ## 📊 My Github Stats
 <br/>
-    <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats" ><img align="right" alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/AronSoto/github-readme-stats"><img alt="AronSoto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AronSoto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="https://github.com/AronSoto/github-readme-stats" ><img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
   <b>Note:</b> The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
@@ -64,9 +63,9 @@ I-am-Aron-Soto
 
 <br><br>
 <div align ="center">
-  <a href="https://www.linkedin.com/in/jose-aron-soto-picon-a55624191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/aronchino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/josearon.sotopicon?locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jose-aron-soto-picon-a55624191" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/aronchino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/darkdeaht" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 
