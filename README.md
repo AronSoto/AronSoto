@@ -77,15 +77,17 @@ I-am-Aron-Soto
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
+  
+<br><br>
+<br><br>
+<br><br>
 
------------
+------
+Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 
------  
----
-
-
-CRs: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited on: 03/06/24
+
+
 
 
 
