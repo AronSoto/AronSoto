@@ -40,7 +40,7 @@ I-am-Aron-Soto
 
 - **Softwares and Tools**:
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="github"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="visual"/>
     <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" width="30" height="40" alt="PBI"/>
