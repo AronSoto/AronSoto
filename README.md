@@ -73,14 +73,14 @@ I-am-Aron-Soto
 <p align="center">You can reach out to me through my social media channels🌬️</p>
 <p align="center">I wish you all the best and blessings😸</p>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 
 ------
 
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+CRs: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
+Last Edited on: 03/06/24
 
 
 
