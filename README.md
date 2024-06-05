@@ -74,6 +74,12 @@ I-am-Aron-Soto
 <p align="center">You can reach out to me through my social media channels🌬️</p>
 <p align="center">I wish you all the best and blessings😸</p>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AronSoto&style=for-the-badge)
+
+</div>
+
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
