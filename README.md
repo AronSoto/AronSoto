@@ -29,6 +29,7 @@ I-am-Aron-Soto
   
      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="PYTHON"/>
      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/>
+     <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS"/>
      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="JS"/>
      
 - **Web Development**:
@@ -36,7 +37,6 @@ I-am-Aron-Soto
    <img src="https://skillicons.dev/icons?i=html" width="38" height="38" alt="HTML"/>
    <img src="https://skillicons.dev/icons?i=css" width="38" height="38" alt="CSS"/>
    <img src="https://skillicons.dev/icons?i=js" width="38" height="38" alt="JS"/>
-   <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS"/>
 
 - **Technologies and Tools**:
 
