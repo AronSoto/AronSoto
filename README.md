@@ -27,23 +27,22 @@ I-am-Aron-Soto
 
 - **Languages**:
   
-     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_plain_wordmark_logo_icon_146380.png" width="40" height="40" alt="Sql"/>
+     <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="PYTHON"/>
      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/>
-     <img src="https://pngimg.com/uploads/php/php_PNG29.png" width="40" height="40" alt="Sql"/>
-     <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40" height="40" alt="Sql"/>
+     <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="JS"/>
      
 - **Web Development**:
 
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+   <img src="https://skillicons.dev/icons?i=html" width="38" height="38" alt="HTML"/>
+   <img src="https://skillicons.dev/icons?i=css" width="38" height="38" alt="CSS"/>
+   <img src="https://skillicons.dev/icons?i=js" width="38" height="38" alt="JS"/>
+   <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS"/>
 
 - **Technologies and Tools**:
 
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="visual"/>
-    <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" width="30" height="40" alt="PBI"/>
+    <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40" alt="Git"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
   <br>
