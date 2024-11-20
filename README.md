@@ -38,12 +38,12 @@ I-am-Aron-Soto
    <img src="https://skillicons.dev/icons?i=css" width="38" height="38" alt="CSS"/>
    <img src="https://skillicons.dev/icons?i=js" width="38" height="38" alt="JS"/>
 
-- **Technologies and Tools**:
+- **Tools and Frameworks**:
 
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="JS"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
   <br>
    
