@@ -52,10 +52,11 @@ I-am-Aron-Soto
 
 ## 📊 My Github Stats
 <br/>
-    <a href="https://github.com/AronSoto/github-readme-stats"><img alt="AronSoto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AronSoto&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true"/></a>
-  <a href="https://github.com/AronSoto/github-readme-stats" ><img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/AronSoto/github-readme-stats"><img alt="AronSoto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AronSoto&show_icons=true&theme=codeSTACKr&hide_border=true&bg_color=0D1117&include_all_commits=true"/></a>
+  <a href="https://github.com/AronSoto/github-readme-stats" ><img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&include_all_commits=true"/></a>
 <br/>
-  
+<br/>
+
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
