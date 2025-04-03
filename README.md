@@ -9,7 +9,7 @@
 ```
 I-am-Aron-Soto
 -------------------------
-⌨️ I am a Software Engineering student and technology enthusiast.
+⌨️ I am a Software Engineering and technology enthusiast.
 📕 I am studying Software Engineering at the Technological University of Peru.
 🌌 I'm deeply passionate about Machine Learning and programming languages.
 🌠 Learn the various types of software that are implemented in IA.
