@@ -80,7 +80,7 @@ I-am-Aron-Soto
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=AronSoto&color=orange&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AronSoto&style=for-the-badge)
 
 </div>
 
