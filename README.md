@@ -71,7 +71,7 @@ I-am-Aron-Soto
 </div>
 <br>
 
-<p align="center">Thank you very much for visiting my GitHub profile🍃. I wish you all the best and blessings 🌌</p>
+<p align="center">Thank you very much for visiting my GitHub profile🍃</p>
 <p align="center">You can reach out to me through my social media channels🌬️</p>
 <p align="center">I wish you all the best and blessings😸</p>
 
