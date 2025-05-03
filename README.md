@@ -44,6 +44,9 @@ I-am-Aron-Soto
     <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="JS"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=webflow" width="40" height="40" alt="JS"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="JS"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
   <br>
    
