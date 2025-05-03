@@ -21,7 +21,7 @@ I-am-Aron-Soto
 <hr>
 
 
-<img align="right" src="https://i.pinimg.com/originals/0c/7b/7b/0c7b7bd6de1525cecb762d4f3de34ea1.gif" alt="Unfortunately the photo"  width="550" height="330"/>
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="650"/>
 
 ### 🧠 Skills 
 
