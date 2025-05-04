@@ -29,9 +29,14 @@ I-am-Aron-Soto
   
 ### Technologies
 ![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=4)
+<hr>
+
+<div align="center">
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=4) 
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=6) 
+
+</div>
 <hr>
 
 ## 📊 My Github Stats
