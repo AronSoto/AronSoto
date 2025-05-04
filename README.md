@@ -15,8 +15,8 @@ I-am-Aron-Soto
 🌠 Learn the various types of software that are implemented in IA.
 🧊 Main languages: (HTML, CSS and JavaScript), SQL and Python.
 🔥 Interested in programming language and AI.
-🐸 Warning! Im an animal lover.
 🎵 Indie, pop, rock, classic, soul and r&b music.
+🐌 Memoir of a Snail.
 ```
 <hr>
 
