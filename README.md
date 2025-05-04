@@ -22,16 +22,16 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="580" height="410"/>
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="550" height="400"/>
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=4)
+![Languages](https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=5)
   
 ### Technologies
-![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=4)
+![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=5)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=4) 
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=5) 
 <hr>
 
 ## 📊 My Github Stats
