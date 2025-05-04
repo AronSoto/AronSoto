@@ -47,6 +47,7 @@ I-am-Aron-Soto
     <br>
     <img src="https://skillicons.dev/icons?i=webflow" width="40" height="40" alt="JS"/>
     <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="JS"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" width="40" height="40" alt="JS"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
   <br>
    
