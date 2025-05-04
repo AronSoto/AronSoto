@@ -34,7 +34,7 @@ I-am-Aron-Soto
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord&perline=5) 
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord&perline=4) 
 
 <hr>
 
