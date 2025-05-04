@@ -22,16 +22,23 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="550" height="400"/>
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="550" />
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=5)
-  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=4" width="180" height="100" />
+</a>
+
 ### Technologies
-![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=5)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=4" width="180" height="50" />
+</a>
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=5) 
+<a href="https://skillicons.dev">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=4" width="180" height="150" />
+</a>
+
 <hr>
 
 ## 📊 My Github Stats
