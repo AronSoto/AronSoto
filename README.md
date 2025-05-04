@@ -19,6 +19,7 @@ I-am-Aron-Soto
 🐌 Memoir of a Snail.
 ```
 <hr>
+<br>
 
 ## 🧠 Skills 
 
