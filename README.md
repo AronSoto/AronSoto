@@ -30,11 +30,11 @@ I-am-Aron-Soto
   
 ### Technologies
 
-![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs&perline=4)
+![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=4)
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,github,notion,jira,figma,discord&perline=4) 
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord&perline=4&theme=light) 
 
 <hr>
 
