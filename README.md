@@ -22,7 +22,7 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="580"/>
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="600"/>
 
 ### Languages
 
@@ -32,9 +32,16 @@ I-am-Aron-Soto
 
 ![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs,mysql&perline=4)
 
-### Tools
+<br><br>
+<br>
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=4) 
+<div align="center">
+
+  ### Tools
+  
+  ![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,github,notion,linux,jira,figma,discord,vscode&perline=6) 
+  
+</div>
 
 <hr>
 
