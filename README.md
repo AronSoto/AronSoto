@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi, I'm Aron Soto!🍂
 </h1>
-<br/>
+
   <img align="left" src="https://i.pinimg.com/564x/13/94/a2/1394a25342955f0613ba77a39947660f.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280"/>
 <hr>
 
@@ -20,52 +20,37 @@ I-am-Aron-Soto
 ```
 <hr>
 
+## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="550"/>
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="650"/>
 
-### 🧠 Skills 
+### Languages
 
-- **Languages**:
+![Languages](https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=4)
   
-     <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="PYTHON"/>
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/>
-     <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS"/>
-     <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="JS"/>
-     
-- **Web Development**:
+### Technologies
 
-   <img src="https://skillicons.dev/icons?i=html" width="38" height="38" alt="HTML"/>
-   <img src="https://skillicons.dev/icons?i=css" width="38" height="38" alt="CSS"/>
-   <img src="https://skillicons.dev/icons?i=js" width="38" height="38" alt="JS"/>
+![Technologies](https://skillicons.dev/icons?i=vue,react,nodejs&perline=4)
 
-- **Tools and Frameworks**:
+### Tools
 
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
-    <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="JS"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=webflow" width="40" height="40" alt="JS"/>
-    <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="JS"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" width="40" height="40" alt="JS"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="40" alt="Git"/>
-  <br>
-   
-</p>
- <hr>
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,github,notion,jira,figma,discord&perline=4) 
+
+<hr>
 
 ## 📊 My Github Stats
 <br/>
-    <a href="https://github.com/AronSoto/github-readme-stats"><img alt="AronSoto's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AronSoto&theme=codeSTACKr&hide_border=true&background=0D1117"/></a>
-  <a href="https://github.com/AronSoto/github-readme-stats"><img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false"/></a>
+<a href="https://github.com/AronSoto/github-readme-stats">
+  <img alt="AronSoto's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AronSoto&theme=codeSTACKr&hide_border=true&background=0D1117"/>
+</a>
+<a href="https://github.com/AronSoto/github-readme-stats">
+  <img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false"/></a>
 
 <br/>
 <br/>
 
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
-
-
 
 <br><br>
 <div align ="center">
