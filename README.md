@@ -23,7 +23,7 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/resources/tumblr.gif" alt="Unfortunately the photo" width="575" />
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/tumblr.gif" alt="Unfortunately the photo" width="575" />
 
 ### Languages
 <a href="https://skillicons.dev">
