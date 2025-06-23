@@ -13,7 +13,6 @@ I-am-Aron-Soto
 📕 I am from South America, Peru.
 🌌 I'm deeply passionate about Machine Learning and programming languages.
 🌠 Learn the various types of software that are implemented in IA.
-🧊 Main languages: (HTML, CSS and JavaScript), SQL and Python.
 🔥 Interested in programming language and AI.
 🎵 Indie, pop, rock, classic, soul and r&b music.
 🐌 Memoir of a Snail.
