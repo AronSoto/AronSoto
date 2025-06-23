@@ -31,7 +31,7 @@ I-am-Aron-Soto
 
 ### Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,tailwind,mysql&perline=4" width="180" height="100" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,tailwind,mysql&perline=5" width="230" height="50" />
 </a>
 
 ### Tools
