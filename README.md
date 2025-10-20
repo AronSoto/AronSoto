@@ -15,7 +15,6 @@ I-am-Aron-Soto
 🎵 Indie, pop, rock, classic, soul and r&b music.
 🐌 Memoir of a Snail.
 ```
-<br>
 <hr>
 
 ## 🧠 Skills 
