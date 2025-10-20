@@ -2,8 +2,6 @@
 <h1 align="center">
   Hi, I'm Aron Soto!🍂
 </h1>
-
-  <img align="left" src="https://i.pinimg.com/564x/13/94/a2/1394a25342955f0613ba77a39947660f.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280"/>
 <hr>
 
 ```
