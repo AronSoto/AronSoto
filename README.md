@@ -33,7 +33,7 @@ I-am-Aron-Soto
 
 ### Tools
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,docker,mongodb,notion,jira,figma&perline=5" width="230" height="100" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,argocd,docker,mongodb,notion,jira,figma&perline=5" width="230" height="150" />
 </a>
 
 <hr>
