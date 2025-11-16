@@ -32,6 +32,8 @@ I-am-Aron-Soto
   <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,argocd,docker,mongodb,notion,jira,figma&perline=5" width="230" height="150" />
 </a>
 
+<br>
+
 ## 📊 My Github Stats
 <a href="https://github.com/AronSoto/github-readme-stats">
   <img alt="AronSoto's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AronSoto&theme=codeSTACKr&hide_border=true&background=0D1117"/>
