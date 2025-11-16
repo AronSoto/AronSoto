@@ -2,7 +2,6 @@
 <h1 align="center">
   Hi, I'm Aron Soto!🍂
 </h1>
-<hr>
 
 ```
 I-am-Aron-Soto
@@ -13,7 +12,6 @@ I-am-Aron-Soto
 🎵 Indie, pop, rock, classic, soul and r&b music.
 🐌 Memoir of a Snail.
 ```
-<hr>
 
 ## 🧠 Skills 
 
