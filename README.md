@@ -19,17 +19,17 @@ I-am-Aron-Soto
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,php,java,html,css,js&perline=4" width="180" height="100" />
+  <img src="https://skillicons.dev/icons?i=ts,py,java,php,html,css,js&perline=4" width="180" height="100" />
 </a>
 
 ### Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,react,nestjs,tailwind,mysql&perline=5" width="230" height="50" />
+  <img src="https://skillicons.dev/icons?i=vue,nestjs,react,tailwind,mysql&perline=5" width="230" height="50" />
 </a>
 
 ### Tools
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,jenkins,argocd,docker,mongodb,notion,jira,figma&perline=5" width="230" height="150" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,webflow,git,postman,argocd,docker,mongodb,notion,jira,figma&perline=5" width="230" height="150" />
 </a>
 
 <br>
