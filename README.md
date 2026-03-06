@@ -19,7 +19,7 @@ I-am-Aron-Soto
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,py,java,php,html,css,js&perline=4" width="180" height="100" />
+  <img src="https://skillicons.dev/icons?i=ts,go,py,java,php,html,css,js&perline=4" width="180" height="100" />
 </a>
 
 ### Technologies
