@@ -15,25 +15,21 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/tumblr.gif" alt="Unfortunately the photo" width="575" />
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Pokemon.gif" alt="Unfortunately the photo" width="575" />
 
 ### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,py,java,php,go,html,css,js&perline=4" width="180" height="100" />
-</a>
+
+[![SkillIcons](https://skillicons.dev/icons?i=ts,py,java,php,go,html,css,js&perline=4)](https://skillicons.dev)
 
 ### Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,tailwind,mysql&perline=4" width="180" height="100" />
-</a>
+
+[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,tailwind,mysql&perline=4)](https://skillicons.dev)
 
 ### Tools
-<a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,postman,webflow,docker,mongodb,postgres,notion,git,jira,figma&perline=5" width="230" height="150" />
-</a>
 
-<br>
-<br>
+[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,postman,webflow,docker,mongodb,postgres,notion,git,jira,figma&perline=5)](https://skillicons.dev)
+
+<br/>
 
 ## 📊 My Github Stats
 <a href="https://github.com/AronSoto/github-readme-stats">
