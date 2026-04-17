@@ -33,10 +33,11 @@ I-am-Aron-Soto
 
 ## 📊 My Github Stats
 <a href="https://github.com/AronSoto/github-readme-stats">
-  <img alt="AronSoto's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AronSoto&theme=codeSTACKr&hide_border=true&background=0D1117"/>
+  <img alt="AronSoto's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AronSoto&theme=codeSTACKr&hide_border=true&background=0D1117&count_private=true"/>
 </a>
 <a href="https://github.com/AronSoto/github-readme-stats">
-  <img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false"/></a>
+  <img align="right" alt="AronSoto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronSoto&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=false&bg_color=0D1117&count_private=true"/>
+</a>
 
 <br>
 <br>
