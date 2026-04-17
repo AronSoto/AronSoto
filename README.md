@@ -15,7 +15,7 @@ I-am-Aron-Soto
 
 ## 🧠 Skills 
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Pokemon.gif" alt="Unfortunately the photo" width="575" />
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Pokemon.gif" alt="Unfortunately the photo" width="475" />
 
 ### Languages
 
