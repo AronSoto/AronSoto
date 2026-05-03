@@ -27,7 +27,7 @@ I-am-Aron-Soto
 
 ### Tools
 
-[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,postman,webflow,docker,mongodb,postgres,notion,git,jira,figma&perline=5)](https://skillicons.dev)
+[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,postman,webflow,vercel,docker,mongodb,postgres,notion,git,jira,figma&perline=5)](https://skillicons.dev)
 
 <br/>
 
