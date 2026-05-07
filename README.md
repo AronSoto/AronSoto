@@ -25,7 +25,7 @@ I-am-Aron-Soto
 
 ### Technologies
 
-[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,tailwind,nextjs,mysql&perline=4)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,mysql&perline=4)](https://skillicons.dev)
 
 ### Tools
 
