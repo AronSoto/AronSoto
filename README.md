@@ -1,11 +1,6 @@
-
 <h1 align="center">
   Hi, I'm Aron Soto!🍂
 </h1>
-
-<a href="https://aronsoto-portfolio.vercel.app">
-  <img  align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner.png" alt="Banner" width="360" height="170px"/>
-</a>
 
 ```
 I-am-Aron-Soto
@@ -16,6 +11,10 @@ I-am-Aron-Soto
 🎵 Indie, pop, rock, classic, soul and r&b music.
 🐌 Memoir of a Snail.
 ```
+
+<a href="https://aronsoto-portfolio.vercel.app">
+  <img src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner2.png" alt="Banner"/>
+</a>
 
 ## 🧠 Skills 
 <img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Chill.gif" alt="Unfortunately the photo" width="475" />
@@ -48,12 +47,9 @@ I-am-Aron-Soto
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
-
-
-
-
 <br>
 <br>
+
 <div align ="center">
   <a href="https://www.linkedin.com/in/jose-aron-soto-picon-a55624191" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/aronchino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
