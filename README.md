@@ -12,7 +12,7 @@ I-am-Aron-Soto
 🐌 Memoir of a Snail.
 ```
 
-<a href="https://aronsoto-portfolio.vercel.app">
+<a href="https://aronsoto-portfolio.vercel.app" target="_blank">
   <img src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner3.png" alt="Banner"/>
 </a>
 
