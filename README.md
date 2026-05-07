@@ -13,7 +13,7 @@ I-am-Aron-Soto
 ```
 
 <a href="https://aronsoto-portfolio.vercel.app">
-  <img src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner2.png" alt="Banner"/>
+  <img src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner3.png" alt="Banner"/>
 </a>
 
 ## 🧠 Skills 
