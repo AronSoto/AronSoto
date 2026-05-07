@@ -3,6 +3,10 @@
   Hi, I'm Aron Soto!🍂
 </h1>
 
+<a href="https://aronsoto-portfolio.vercel.app">
+  <img  align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Banner.png" alt="Banner" width="360" height="170px"/>
+</a>
+
 ```
 I-am-Aron-Soto
 -------------------------
@@ -14,7 +18,6 @@ I-am-Aron-Soto
 ```
 
 ## 🧠 Skills 
-
 <img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Chill.gif" alt="Unfortunately the photo" width="475" />
 
 ### Languages
@@ -44,6 +47,10 @@ I-am-Aron-Soto
 
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
+
+
+
+
 
 <br>
 <br>
