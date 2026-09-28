@@ -21,7 +21,7 @@ I-am-Aron-Soto
 
 ### Languages
 
-[![SkillIcons](https://skillicons.dev/icons?i=ts,py,java,php,go,html,css,js&perline=4)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=ts,py,go,java,php,html,css,js&perline=4)](https://skillicons.dev)
 
 ### Technologies
 
