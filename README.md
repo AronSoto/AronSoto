@@ -25,11 +25,11 @@ I-am-Aron-Soto
 
 ### Technologies
 
-[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,astro,mysql&perline=4)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,astro,svelte&perline=4)](https://skillicons.dev)
 
 ### Tools
 
-[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,postman,webflow,vercel,docker,mongodb,postgres,prisma,notion,git,jira,figma&perline=5)](https://skillicons.dev)
+[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,cloudflare,postman,webflow,vercel,docker,mongodb,postgres,prisma,notion,git,jira,figma&perline=5)](https://skillicons.dev)
 
 <br/>
 
