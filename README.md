@@ -5,15 +5,18 @@
 ```
 I-am-Aron-Soto
 -------------------------
-⌨️ I am a Software Engineering and technology enthusiast.
-📕 I am from South America, Peru.
-🔥 Interested in programming language and AI.
+⌨️ Full Stack Engineer at Hapi (YC W21).
+🏦 Building GraphQL APIs and NestJS/Go microservices.
+📦 Author of Verbaly, type-safe i18n for TypeScript.
+📕 Based in Lima, Peru.
+🔥 Interested in developer tools, fintech and AI.
 🎵 Indie, pop, rock, classic, soul and r&b music.
 🐌 Memoir of a Snail.
 ```
 
-## 🧠 Skills 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Chill.gif" alt="Unfortunately the photo" width="475" />
+## 🧠 Skills
+
+<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Chill.gif" alt="Pixel art of a ghost fishing by a pond" width="475" />
 
 ### Languages
 
@@ -46,25 +49,23 @@ I-am-Aron-Soto
 <br>
 <br>
 
-<div align ="center">
-  <a href="https://www.linkedin.com/in/jose-aron-soto-picon-a55624191" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/aronchino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/darkdeaht" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://aronsoto.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6d300?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNyIgZmlsbD0iIzFiMjExNiIvPjwvc3ZnPgo%3D" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aron-soto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/aronchino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 <br>
 
-<p align="center">Thank you very much for visiting my GitHub profile🍃</p>
-<p align="center">You can reach out to me through my social media channels🌬️</p>
-<p align="center">I wish you all the best and blessings😸</p>
+<p align="center">Thanks for stopping by my GitHub profile🍃</p>
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AronSoto&style=for-the-badge)
 
 </div>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Footer" width="100%" align="left"/>
 </a>
 
 <br><br>
@@ -72,7 +73,7 @@ I-am-Aron-Soto
 <br>
 
 ------
-Last Edited on: 03/06/24
-<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align = "right" width="100">
+Last Edited on: 11/10/26
+<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align="right" width="100">
 
-<sub> CRs: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya) <sub>
+<sub> CRs: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya) </sub>
