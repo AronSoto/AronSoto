@@ -65,7 +65,7 @@ I-am-Aron-Soto
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AronSoto&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AronSoto&style=flat-square)
 
 </div>
 
