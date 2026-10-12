@@ -16,19 +16,24 @@ I-am-Aron-Soto
 
 ## 🧠 Skills
 
-<img align="right" src="https://github.com/AronSoto/Minecraft_Encyclopedia/blob/main/src/assets/resources/Chill.gif" alt="Pixel art of a ghost fishing by a pond" width="475" />
-
-### Languages
-
-[![SkillIcons](https://skillicons.dev/icons?i=ts,py,go,java,php,html,css,js&perline=4)](https://skillicons.dev)
-
-### Technologies
-
-[![SkillIcons](https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,astro,svelte&perline=4)](https://skillicons.dev)
-
-### Tools
-
-[![SkillIcons](https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,cloudflare,postman,webflow,vercel,docker,mongodb,postgres,prisma,notion,git,jira,figma&perline=5)](https://skillicons.dev)
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Technologies</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,go,java,php,html,css,js&perline=4" alt="Languages"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,astro,svelte&perline=4" alt="Technologies"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,cloudflare,postman,webflow,vercel,docker,mongodb,postgres,prisma,notion,git,jira,figma&perline=5" alt="Tools"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
