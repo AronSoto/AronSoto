@@ -27,7 +27,7 @@ I-am-Aron-Soto
       <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,java,py,js,css&perline=3" alt="Languages"/></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,graphql,grpc,prisma,swagger,vue,nuxtjs,nextjs,react,reactnative,expo,astro,svelte,tailwind,gsap&perline=6" alt="Technologies"/></a>
+      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,graphql,grpc,prisma,vue,nuxtjs,nextjs,react,expo,astro,svelte,tailwind,gsap&perline=5" alt="Technologies"/></a>
     </td>
     <td align="center" valign="top">
       <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudflare,vercel,docker,argocd,githubactions,jenkins,vite,vitest,jest,postgres,mongodb,mcp,figma,webflow&perline=5" alt="Tools"/></a>
