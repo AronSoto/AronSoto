@@ -24,13 +24,13 @@ I-am-Aron-Soto
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,go,java,php,html,css,js&perline=4" alt="Languages"/></a>
+      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,java,py,js,css&perline=3" alt="Languages"/></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,nestjs,react,nextjs,tailwind,astro,svelte&perline=4" alt="Technologies"/></a>
+      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,graphql,grpc,prisma,swagger,vue,nuxtjs,nextjs,react,reactnative,expo,astro,svelte,tailwind,gsap&perline=4" alt="Technologies"/></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,graphql,argocd,cloudflare,postman,webflow,vercel,docker,mongodb,postgres,prisma,notion,git,jira,figma&perline=5" alt="Tools"/></a>
+      <a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudflare,vercel,docker,argocd,githubactions,jenkins,vite,vitest,jest,postgres,mongodb,mcp,figma,webflow&perline=5" alt="Tools"/></a>
     </td>
   </tr>
 </table>
